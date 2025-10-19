@@ -2,35 +2,32 @@ body {
     text-align: center; 
 }
 
-
-
-#h1test {
-   border: 5px solid red;
+#hOneTest {
+    border: 5px solid black;
    border-radius:20px;
    display: inline-block;
    padding: 5px;
-   
+   color: black;
 }
 
-
-#userInput {
-    margin-top:50px;
-
+#boolCheck {
+    margin-top:100px;
+     max-width:150px;
+    width:100px;
     margin-bottom:100px;
-    width:300px;
-    max-width:150px;
 
+    
 }
 
 #addon-wrapping{
-    margin-top:50px;
-    
+        margin-top:100px;
+    margin-left:800px;
 
-    margin-bottom:100px;
+
+margin-bottom:100px;
 }
 
-
-#button1 {
+#testButton {
         border-radius: 8px;
         border-color:black;
 
