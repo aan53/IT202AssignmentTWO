@@ -1,0 +1,52 @@
+body {
+    text-align: center; 
+}
+
+#finalText {
+   border: 5px solid red;
+   border-radius:20px;
+   display: inline-block;
+   padding: 5px;
+   
+}
+
+#inputBoxCostI {
+    margin-top:50px;
+
+    margin-bottom:100px;
+    width:300px;
+    max-width:150px;
+
+}
+
+#inputBoxCostT {
+    margin-top:50px;
+margin-left:800px;
+    margin-bottom:100px;
+    max-width:150px;
+    width:300px;
+
+}
+
+#addon-wrapping1{
+    margin-top:50px;
+    margin-left:800px;
+
+    margin-bottom:100px;
+}
+
+#addon-wrapping{
+        margin-top:50px;
+
+
+margin-bottom:100px;
+}
+h1{
+    color:red;
+}
+
+#buttonCalcTest {
+        border-radius: 8px;
+        border-color:black;
+
+}
